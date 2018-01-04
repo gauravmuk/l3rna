@@ -1,5 +1,23 @@
 {
-	"devDependencies": {
-		"lerna": "^2.5.1"
-	}
+  "devDependencies": {
+    "lerna": "^2.5.1"
+  },
+  "name": "l3rna",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gauravmuk/l3rna.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gauravmuk/l3rna/issues"
+  },
+  "homepage": "https://github.com/gauravmuk/l3rna#readme",
+  "description": ""
 }
